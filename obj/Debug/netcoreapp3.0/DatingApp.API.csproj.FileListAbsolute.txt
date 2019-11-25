@@ -106,3 +106,11 @@
 /Users/Combii/Desktop/C-Sharp Kursus/DatingApp/obj/Debug/netcoreapp3.0/DatingApp.API.csproj.CopyComplete
 /Users/Combii/Desktop/C-Sharp Kursus/DatingApp/obj/Debug/netcoreapp3.0/DatingApp.API.dll
 /Users/Combii/Desktop/C-Sharp Kursus/DatingApp/obj/Debug/netcoreapp3.0/DatingApp.API.pdb
+/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll
+/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll
+/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll
+/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
