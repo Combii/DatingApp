@@ -114,3 +114,4 @@
 /Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll
 /Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/bin/Debug/netcoreapp3.0/Data/UserSeedData.json
