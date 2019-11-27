@@ -22,5 +22,4 @@ namespace DatingApp.Helpers
 
     }
 
-
 }
