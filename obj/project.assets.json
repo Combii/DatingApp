@@ -2277,19 +2277,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/Combii/.nuget/packages/": {}
+    "/Users/borisgrunwald/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/DatingApp.API.csproj",
+      "projectUniqueName": "/Users/borisgrunwald/Desktop/programmering/dotnet/datingAppDavid/DatingApp/DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/DatingApp.API.csproj",
-      "packagesPath": "/Users/Combii/.nuget/packages/",
-      "outputPath": "/Users/Combii/Desktop/C-Sharp Kursus/DatingApp/obj/",
+      "projectPath": "/Users/borisgrunwald/Desktop/programmering/dotnet/datingAppDavid/DatingApp/DatingApp.API.csproj",
+      "packagesPath": "/Users/borisgrunwald/.nuget/packages/",
+      "outputPath": "/Users/borisgrunwald/Desktop/programmering/dotnet/datingAppDavid/DatingApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Combii/.nuget/NuGet/NuGet.Config"
+        "/Users/borisgrunwald/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"

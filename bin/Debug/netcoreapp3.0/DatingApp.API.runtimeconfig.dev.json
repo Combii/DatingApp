@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/Combii/.dotnet/store/|arch|/|tfm|",
-      "/Users/Combii/.nuget/packages"
+      "/Users/borisgrunwald/.dotnet/store/|arch|/|tfm|",
+      "/Users/borisgrunwald/.nuget/packages"
     ]
   }
 }
